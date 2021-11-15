@@ -1,3 +1,7 @@
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=george&show_icons=true&theme=radical)
+
+
+
 - 👋 Hi, I’m George Roumieh
 - 👀 I’m interested in Web development 
 - 🌱 I’m currently learning in HackYourFuture
