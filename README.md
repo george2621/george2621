@@ -12,6 +12,7 @@
 <img align="left" src="https://img.shields.io/badge/-Nodejs-3c873a?style=for-the-badge&logo=Node.js&logoColor=white&logoWidth=20"/>
 <img align="left" src="https://img.shields.io/badge/-React-fefefe?style=for-the-badge&logo=React&logoColor=61DAFB&logoWidth=20"/>
 <img align="left" src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white&logoWidth=30"/>
+<p>&nbsp;</p>
 <img align="left" src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white&logoWidth=20"/>
 
 <p>&nbsp;</p>
